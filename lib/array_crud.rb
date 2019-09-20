@@ -38,7 +38,7 @@ end
 
 def retrieve_last_element_from_array(array)
   forest = ["Trees","Flowers","Butterflies","Birds"]
-  forest =[3]
+  forest =[-1]
 end
 
 def update_element_from_index(array, index_number, element)
