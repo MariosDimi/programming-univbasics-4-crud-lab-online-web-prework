@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   forest = ["Trees","Flowers","Butterflies","Birds"]
-  forest ["Butterflies"]
+  forest [2]
 end
 
 def retrieve_first_element_from_array(array)
@@ -43,6 +43,6 @@ end
 
 def update_element_from_index(array, index_number, element)
   forest = ["Trees","Flowers","Butterflies","Birds"]
-  
+  forest [2] = "Pink and Blue Butterflies"
 
 end
