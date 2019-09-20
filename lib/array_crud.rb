@@ -12,14 +12,17 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  forest = ["Trees","Flowers","Butterflies","Birds"]
+  forest.unshift("Lions")
 end
 
 def remove_element_from_end_of_array(array)
-  
+  forest = ["Trees","Flowers","Butterflies","Birds"]
+  bears = forest.pop
 end
 
 def remove_element_from_start_of_array(array)
+  
   
 end
 
