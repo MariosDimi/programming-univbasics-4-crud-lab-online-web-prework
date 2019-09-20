@@ -18,17 +18,17 @@ end
 
 def remove_element_from_end_of_array(array)
   forest = ["Trees","Flowers","Butterflies","Birds"]
-  bears = forest.pop
+  Bears = forest.pop
 end
 
 def remove_element_from_start_of_array(array)
   forest = ["Trees","Flowers","Butterflies","Birds"]
-  
-  
+  Lios = forest.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+  forest = ["Trees","Flowers","Butterflies","Birds"]
+  forest [2]
 end
 
 def retrieve_first_element_from_array(array)
